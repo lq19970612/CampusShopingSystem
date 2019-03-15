@@ -1,4 +1,4 @@
-package inf.controller;
+package com.controller;
 
 public class TestController {
 }
